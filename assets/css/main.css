@@ -1756,8 +1756,6 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			display: flex;
-			justify-content: center;
 			width: 90px;
 			height: 90px;
 			background: #f00;
@@ -1855,7 +1853,6 @@ input, select, textarea {
 	form select,
 	form textarea {
 		position: relative;
-		-webkit-appearance: none;
 		display: block;
 		border: 0;
 		outline: 0;
